@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="week1">#CEE7422A</color>
+	<color name="week2">#CEB38F2D</color>
+	<color name="week3">#CED02D2E</color>
+	<color name="week4">#CE286C7C</color>
+	<color name="week5">#CEC7D05D</color>
+	<color name="week6">#CED43E3C</color>
+	<color name="week7">#CE244180</color>
+	<color name="week8">#CE3892D1</color>
+	<color name="week9">#CE9D85B6</color>
+	<color name="week10">#CE7E7474</color>
+	<color name="week11">#CE5984F7</color>
+	<color name="week12">#CE4167AC</color>
+	
+	<color name="day1">#CE473636</color>
+	<color name="day2">#CEBE0014</color>
+	<color name="day3">#CEEBB4D7</color>
+	<color name="day4">#CE87AEBE</color>
+	<color name="day5">#CE4C9BE3</color>
+	<color name="day6">#CE5E708D</color>
+	<color name="day7">#CEF09495</color>
+	<color name="day8">#CECA6173</color>
+	<color name="day9">#CE434E7D</color>
+	<color name="day10">#CEE4E30E</color>
+	<color name="day11">#CEE4E30D</color>
+	<color name="day12">#CEE8E0DF</color>
+	
+	<color name="today1">#CE83B2A4</color>
+	<color name="today2">#CE810C14</color>
+	<color name="today3">#CEB87FB4</color>
+	<color name="today4">#CE2B457B</color>
+	<color name="today5">#CE3C5B9B</color>
+	<color name="today6">#CEAFBDCB</color>
+	<color name="today7">#CEE029F6</color>
+	<color name="today8">#CECB64AD</color>
+	<color name="today9">#CEC6BCD9</color>
+	<color name="today10">#CEFFC001</color>
+	<color name="today11">#CEFFC001</color>
+	<color name="today12">#CE81817D</color>
+	
+	<color name="word1">#FFFFFFFF</color>
+	<color name="word2">#FF000000</color>
+	<color name="word3">#FFCD2BCB</color>
+	<color name="word4">#FFFFFFFF</color>
+	<color name="word5">#FF585C2C</color>
+	<color name="word6">#FFFBDFAB</color>
+	<color name="word7">#FF244180</color>
+	<color name="word8">#FF000000</color>
+	<color name="word9">#FFDCDCDA</color>
+	<color name="word10">#FF5F5F5F</color>
+	<color name="word11">#FF000000</color>
+	<color name="word12">#FF000000</color>
+	
+	<color name="info1">#FFFFCBFB</color>
+	<color name="info2">#FF000000</color>
+	<color name="info3">#FF000000</color>
+	<color name="info4">#FF57BEBC</color>
+	<color name="info5">#FFFFFFFF</color>
+	<color name="info6">#FFFFFFFF</color>
+	<color name="info7">#FF000000</color>
+	<color name="info8">#FFFFCBFB</color>
+	<color name="info9">#FFFFFF66</color>
+	<color name="info10">#FF000000</color>
+	<color name="info11">#FF000000</color>
+	<color name="info12">#FF000000</color>
+	
+</resources>

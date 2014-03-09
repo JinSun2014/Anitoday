@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" android:background="@drawable/background_search"
+android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/scrollView_search"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<LinearLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:orientation="vertical"
+		android:gravity="center_horizontal" android:layout_marginBottom="5dip"
+		android:layout_marginTop="5dip">
+			<LinearLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:orientation="horizontal"
+			android:gravity="center_horizontal|center_vertical" android:layout_marginBottom="5dip">
+				<ImageView android:id="@+id/im_name_search"
+				android:layout_width="100dp" android:layout_height="100dp"
+				android:src="@drawable/a175" android:layout_marginLeft="20dip"/>
+				<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:orientation="vertical"
+				android:layout_gravity="center_horizontal" android:layout_marginLeft="40dip">
+					<TextView android:id="@+id/tv_name_search" 
+					android:layout_width="wrap_content" android:layout_height="wrap_content" 
+					android:textSize="23dip" android:textColor="#FFFFFFFF"
+					android:text="xx" android:textStyle="bold"/>	
+					<TextView android:id="@+id/tv_anime_search"
+					android:textColor="#FFFFFFFF" android:textSize="19dip" 
+					android:layout_width="wrap_content" android:layout_height="wrap_content" 
+					android:text="——《xxxx》" android:textStyle="bold"/>						
+					<TextView android:id="@+id/tv_date_search" 
+					android:layout_width="fill_parent" android:layout_height="wrap_content" 
+					android:textSize="19dip"	android:textColor="#FFFFFFFF"
+					android:text="出生日期：\n           x月x日" />
+				</LinearLayout>
+			</LinearLayout>
+			<TextView android:id="@+id/tv_info_search"	
+			android:layout_marginLeft="30dip"	android:layout_marginRight="30dip"			
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:text="      今天没有动漫人物诞生！"
+			android:textSize="19dip" android:textColor="#FFFFFFFF"
+			android:textStyle="bold"/>			
+		</LinearLayout>	
+	</ScrollView>    
+</LinearLayout>
